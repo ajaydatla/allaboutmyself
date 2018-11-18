@@ -1,3 +1,7 @@
-#header h1{
+#header{
     text-align: right;
+}
+.header{
+    display: inline-block;
+    
 }
