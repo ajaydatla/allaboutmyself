@@ -5,3 +5,10 @@
     display: inline-block;
     
 }
+.header kbd{
+    letter-spacing: 14px;
+    background-color: #1fc0c7;
+}
+#header h1{
+    box-shadow: 1px 5px #ceb7b7;
+}
