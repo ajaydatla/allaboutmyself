@@ -1,3 +1,6 @@
+body{
+    
+}
 #header{
     text-align: right;
 }
@@ -11,4 +14,10 @@
 }
 #header h1{
     box-shadow: 1px 5px #ceb7b7;
+}
+.w3-ul li{
+    letter-spacing: 3px;
+}
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
